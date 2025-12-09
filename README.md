@@ -68,7 +68,7 @@ Full details and diagram annotations in `Phase_II_BPMN_Model.md`.
 
 ![PDB](/Phase4/PDB%20Creation.png)
 
-By creating p[luggable databse it allows as to create and modify the all tables and other things that requires to have PDB like sql developer connections.
+By creating pluggable databse it allows as to create and modify the all tables and other things that requires to have PDB like sql developer connections.
 
 
 ![Logical ER Model](/Phase3/logical_model.png)
